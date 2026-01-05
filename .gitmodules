@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/Babai8899/ek-cup-chai-client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/Babai8899/ek-cup-chai-server.git
